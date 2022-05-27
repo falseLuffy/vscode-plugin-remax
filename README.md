@@ -1,6 +1,6 @@
 # remax 
 
-支持Remax框架开发小城
+支持Remax小程序开发框架
 
 ## 功能 
  新建Remax小程序组件
